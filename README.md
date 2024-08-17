@@ -1,4 +1,4 @@
-![Screenshot 2024-08-16 220524](https://github.com/user-attachments/assets/3c66375f-9145-4f3b-b9ef-302c1a75551a)# CODTECH--Task-2
+![Screenshot 2024-08-16 220524](https://github.com/user-attachments/assets/3c66375f-9145-4f3b-b9ef-302c1a75551a)
 
 
 Name : Khushi Kabra
@@ -13,11 +13,11 @@ Duration : 20th July to 5th Sept 2024
 
 Mentor : Santhosh Kumar
 
-Overview of the Project
+*Overview of the Project*
 
 Project : Reinforcement learning project on Stock Trading Simulation.
 
-Objective
+*Objective*
 
 Project is centered around developing a reinforcement learning (RL) simulation for stock trading in Python. This initiative is spearheaded by Quantum Trading, a fictional but ambitious trading firm looking to leverage cutting-edge machine learning techniques to gain a competitive edge in the financial markets.
 
@@ -39,6 +39,6 @@ Language Used:
 Python
 
 
-Result of the project
+Result of the project: 
 
 [Uploading Screenshot 2024-08-16 220524.png…]()
