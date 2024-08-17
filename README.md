@@ -22,7 +22,7 @@ Project : Reinforcement learning project on Stock Trading Simulation.
 Project is centered around developing a reinforcement learning (RL) simulation for stock trading in Python. This initiative is spearheaded by Quantum Trading, a fictional but ambitious trading firm looking to leverage cutting-edge machine learning techniques to gain a competitive edge in the financial markets.
 
 
-Key activities :
+*Key activities :*
 
 
 1. Train the PPO model
@@ -34,11 +34,11 @@ Key activities :
 4. Use QuantStats to generate summary statistics
    
 
-Language Used:
+*Language Used:*
 
-Python
+> Python
 
 
-Result of the project: 
+*Result of the project: *
 
 [Uploading Screenshot 2024-08-16 220524.png…]()
